@@ -1,0 +1,17 @@
+.container{
+    background-color: gray;
+}
+
+
+h1 {
+    color: red;
+    background-color: lightgrey;
+}
+
+.container img{
+    width: 200px;
+    height: 220px;
+    border: 2px solid green;
+    background-color: coral;
+
+}
